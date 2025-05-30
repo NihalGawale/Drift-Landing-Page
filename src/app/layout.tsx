@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "https://drift-landing-page.vercel.app/og-image.jpeg", // optional: custom OG image
+        url: "https://weardrift.store/og-image.jpeg", // optional: custom OG image
         width: 1200,
         height: 630,
         alt: "DRIFT Sneaker – Premium Indian Brand",

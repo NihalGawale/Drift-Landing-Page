@@ -29,7 +29,7 @@ const LandingPage = () => {
             animate={{ opacity: [1, 0, 1] }}
             transition={{ duration: 1.5, repeat: Infinity }}
           >
-            <p className="text-sm md:text-xl text-gray-500 flex justify-center">
+            <p className="text-base font-medium md:text-xl text-gray-500 flex justify-center">
               Stay Tuned!
             </p>
           </motion.div>
@@ -39,7 +39,7 @@ const LandingPage = () => {
             className="text-lg flex gap-x-2 justify-center items-center"
           >
             <InstagramIcon />
-            <p>@drift.india</p>
+            <p>drift.india</p>
           </Link>
         </div>
       </div>

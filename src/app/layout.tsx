@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "DRIFT" }],
   openGraph: {
-    title: "DRIFT – Premium Sneakers Made in India",
+    title: "DRIFT – India's Most Premium Sneakers Brand",
     description:
       "Explore DRIFT: where street-luxury meets comfort. Premium sneakers crafted in India. Glide Beyond the Usual.",
     url: "https://weardrift.store/", // Replace with actual URL
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "/assets/brand-logo-white.png", // optional: custom OG image
+        url: "https://drift-landing-page.vercel.app/og-image.jpeg", // optional: custom OG image
         width: 1200,
         height: 630,
         alt: "DRIFT Sneaker – Premium Indian Brand",
